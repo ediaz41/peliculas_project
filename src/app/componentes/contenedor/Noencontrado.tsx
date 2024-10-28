@@ -1,4 +1,4 @@
-export const NoEncontado = ()=>{
+export const NoEncontrado = ()=>{
     return(
         <>
         Hola soy el No Encontrado <br/>
